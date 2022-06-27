@@ -8,13 +8,10 @@
 
 Неколку слики од играта
 
-Почеток на ирата:
 ![pocetok](https://user-images.githubusercontent.com/63553277/175985860-18b35056-7504-42aa-a103-b2a08adfdc2c.png)
 
-Тек на играта:
 ![tek](https://user-images.githubusercontent.com/63553277/175986153-5bf785af-c590-430a-87b8-5f0fe6a105da.png)
 
-Крај на играта:
 ![kraj](https://user-images.githubusercontent.com/63553277/175986506-0d72cb0a-6167-4fc2-b58c-5a10cb04671e.png)
 
 
